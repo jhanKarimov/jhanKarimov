@@ -1,4 +1,4 @@
-- System.out.println( "coder, musician, author" );
+- System.out.println( "Coder, Musician, Author" );
 
 - location = "Boston, USA";
 - founder = "@timidusart & @soz6com"

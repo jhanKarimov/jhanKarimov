@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jhanKarimov
-- 👀 I’m interested in ... java art
-- 🌱 I’m currently learning ... javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- System.out.println( "coder, musician, author" );
+
+- location = "Boston, USA";
+- founder = "@timidusart & @soz6com"
+
 
 <!---
 jhanKarimov/jhanKarimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

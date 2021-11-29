@@ -1,0 +1,22 @@
+
+public class codingQuestions {
+    public static void main(String[] args) {
+        dublicates_uniques();
+    }
+
+   public static void dublicates_uniques() {
+        String str = "find dublicates";
+
+        String unique = "";
+        String dublicates = "";
+        for (int i = 0; i < str.length(); i++) {
+            if (!unique.contains(String.valueOf(str.charAt(i)))) {
+                unique += String.valueOf(str.charAt(i));
+            } else
+            {
+                dublicates+= String.valueOf(str.charAt(i));
+            }
+        }
+        System.out.println(dublicates);
+        System.out.println(unique);
+    }}}

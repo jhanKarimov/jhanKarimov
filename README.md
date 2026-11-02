@@ -1,8 +1,19 @@
-- location = "New York, USA";
-- founder = "@timidusart & @soz6com"
+# Hi, I'm Jhan
 
+SDET / QA automation engineer based in New York. I like building tools — test automation, small web apps, data pipelines — and I run a live community site in Azerbaijani on the side.
 
-<!---
-jhanKarimov/jhanKarimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I work with
+- **Test automation:** Java, Selenium, TestNG, JUnit, Cucumber, REST Assured, Postman, Playwright (learning, see below)
+- **Backend & data:** Python, PHP, JavaScript, SQL, MySQL
+- **CI/CD & ops:** Jenkins, GitHub Actions, Maven, Nginx, Linux
+
+## Things I've built
+| Project | What it is |
+|---|---|
+| [playwright-demo](https://github.com/jhanKarimov/playwright-demo) | Playwright + TypeScript suite: page objects, fixtures, auth/redirect checks, accessibility smoke, flaky-test hygiene, GitHub Actions |
+| [nexus-charts](https://github.com/jhanKarimov/nexus-charts) | A self-hosted TradingView-style chart page: indicators, ~80 drawing tools, alerts, in-browser scripts |
+| [tiny-indicators](https://github.com/jhanKarimov/tiny-indicators) | SMA / EMA / RSI / ATR / Bollinger / MACD / Supertrend / VWAP in plain pandas, with tests |
+| [soz6.com](https://soz6.com) | An Azerbaijani-language community dictionary and news site I've built and run on my own server for 10+ years |
+
+## Elsewhere
+Founder of [@soz6com](https://github.com/soz6com) and [@timidusart](https://github.com/timidusart). I write fiction in Azerbaijani, make electronic music, and take photos.

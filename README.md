@@ -16,4 +16,4 @@ SDET / QA automation engineer based in New York. I like building tools — test 
 | [soz6.com](https://soz6.com) | An Azerbaijani-language community dictionary and news site I've built and run on my own server for 10+ years |
 
 ## Elsewhere
-Founder of [@soz6com](https://github.com/soz6com) and [@timidusart](https://github.com/timidusart). I write fiction in Azerbaijani, make electronic music, and take photos.
+Founder of [soz6.com](https://soz6.com). I write fiction in Azerbaijani, make electronic music as Timidus, and take photos.
